@@ -2,7 +2,7 @@
 
 A practical list of places to run applications, AI agents and compute workloads: sandboxes, cloud platforms, persistent machines and self-hosted tools.
 
-Browse the [full directory](https://wheredoirunthis.com/) for product details and comparisons. This list includes commercial services, open-core products and open-source tools; it is alphabetical within each category, not ranked, and inclusion is not an endorsement.
+Browse the [full directory](https://wheredoirunthis.com/) for product details, pricing and capabilities. This list includes commercial services, open-core products and open-source tools; it is alphabetical within each category, not ranked, and inclusion is not an endorsement.
 
 **Hosting labels:** **Hosted** — a managed service; **Open core** — a self-hostable core with a commercial offering; **Self-hosted** — a self-hostable tool you can operate yourself. Availability and license terms vary by product; a hosted listing does not imply open-source software, and a self-hostable tool need not have a managed service.
 
