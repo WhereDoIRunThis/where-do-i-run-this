@@ -97,6 +97,7 @@ Platforms for deploying applications, services and background workers.
 
 - [Aptible](https://www.aptible.com/) — **Hosted**. Application and database hosting for production workloads, including regulated SaaS. [details](https://wheredoirunthis.com/products/aptible)
 - [Canine](https://canine.sh/) — **Open core**. Deploy web apps, background jobs and containers to your own Kubernetes cluster. [details](https://wheredoirunthis.com/products/canine)
+- [Dcubix Magic Apps](https://www.dcubix.com/magic-apps/) — **Hosted**. Build and deploy apps from GitHub with automatic scaling across selected regions. [details](https://wheredoirunthis.com/products/dcubix-magic-apps)
 - [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform) — **Hosted**. Managed hosting for web services, static sites, workers and scheduled jobs. [details](https://wheredoirunthis.com/products/digitalocean-app-platform)
 - [Fly.io](https://fly.io/) — **Hosted**. Deploy containerized applications and stateful services on distributed virtual machines. [details](https://wheredoirunthis.com/products/fly-io)
 - [here.now](https://here.now/) — **Hosted**. Publish static websites, web apps and agent-created artifacts. [details](https://wheredoirunthis.com/products/here-now)
