@@ -49,6 +49,7 @@ Isolated environments for code execution, coding agents and computer use.
 - [Cube Sandbox \(CubeSandbox\)](https://cubesandbox.com/) — **Self-hosted**. Sandbox service for agent code, browser automation and desktop workflows. [details](https://wheredoirunthis.com/products/cubesandbox)
 - [Daytona](https://www.daytona.io/) — **Hosted**. Infrastructure for Running AI-Generated Code. [details](https://wheredoirunthis.com/products/daytona)
 - [Docker Sandboxes](https://www.docker.com/products/docker-sandboxes/) — **Hosted**. Local and cloud microVM environments for coding agents and code execution. [details](https://wheredoirunthis.com/products/docker-sandboxes)
+- [Droneship](https://droneship.run/) — **Hosted**. Cloud sandboxes for coding agents. [details](https://wheredoirunthis.com/products/droneship)
 - [Drop](https://droprun.sh/) — **Self-hosted**. Native Linux sandboxing for commands, coding agents and developer shells. [details](https://wheredoirunthis.com/products/drop)
 - [E2B](https://e2b.dev/) — **Open core**. Sandboxes for agent code execution, computer use and data analysis. [details](https://wheredoirunthis.com/products/e2b)
 - [Fast VM](https://fastvm.org/) — **Hosted**. Virtual-machine sandboxes with snapshots and branching for agents and evaluations. [details](https://wheredoirunthis.com/products/fastvm)
@@ -59,7 +60,7 @@ Isolated environments for code execution, coding agents and computer use.
 - [Judge0](https://judge0.com/) — **Open core**. Sandboxed open-source online code execution system for humans and AI. [details](https://wheredoirunthis.com/products/judge0)
 - [Lifo](https://lifo.sh/) — **Self-hosted**. Tiny Linux-like OS in TypeScript, for browsers, Node and serverless functions. [details](https://wheredoirunthis.com/products/lifo)
 - [microsandbox](https://microsandbox.dev/) — **Open core**. Open-source microVM sandboxes for agents and untrusted code. [details](https://wheredoirunthis.com/products/microsandbox)
-- [nono](https://nono.sh/) — **Self-hosted**. Ephemeral sandboxes for agent commands, scripts, tools and CI jobs. [details](https://wheredoirunthis.com/products/nono)
+- [nono](https://nono.sh/) — **Self-hosted**. Self-hostable environments for running code and agent tasks. [details](https://wheredoirunthis.com/products/nono)
 - [NVIDIA OpenShell](https://docs.nvidia.com/openshell/about/overview) — **Self-hosted**. Runtime with network and filesystem policies for autonomous agents. [details](https://wheredoirunthis.com/products/openshell)
 - [OpenComputer](https://opencomputer.dev/) — **Open core**. Platform for long-running agents. [details](https://wheredoirunthis.com/products/opencomputer)
 - [OpenSandbox](https://open-sandbox.ai/) — **Self-hosted**. Sandbox runtime for agent code, browser automation and computer use. [details](https://wheredoirunthis.com/products/opensandbox)
@@ -81,6 +82,7 @@ Isolated environments for code execution, coding agents and computer use.
 
 Longer-lived machines and development environments.
 
+- [boxes.dev](https://boxes.dev/) — **Hosted**. Hosted persistent machines for development and workloads. [details](https://wheredoirunthis.com/products/boxes.dev)
 - [Catnip](https://catnip.run/) — **Self-hosted**. Containerized coding-agent sessions with parallel Git worktrees and web, mobile or SSH access. [details](https://wheredoirunthis.com/products/catnip)
 - [Docker Offload](https://www.docker.com/products/docker-offload/) — **Hosted**. Run Docker builds and containers in cloud environments from your local workflow. [details](https://wheredoirunthis.com/products/docker-offload)
 - [exe.dev](https://exe.dev/) — **Hosted**. Build apps or SSH into a persistent Linux VM. [details](https://wheredoirunthis.com/products/exe.dev)
