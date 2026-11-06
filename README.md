@@ -46,6 +46,7 @@ Isolated environments for code execution, coding agents and computer use.
 - [Browserbase](https://www.browserbase.com/) — **Hosted**. Cloud browsers for web agents, automation, scraping and testing. [details](https://wheredoirunthis.com/products/browserbase)
 - [Celesto AI](https://celesto.ai/) — **Open core**. Sandboxes for code execution, browser automation and computer-use agents. [details](https://wheredoirunthis.com/products/celesto)
 - [Cloudflare Sandboxes](https://www.cloudflare.com/products/sandboxes/) — **Hosted**. Run untrusted code in isolated environments. [details](https://wheredoirunthis.com/products/cloudflare-sandboxes)
+- [co:op](https://coop.dryga.com/) — **Self-hosted**. You need a sandbox. [details](https://wheredoirunthis.com/products/coop)
 - [Cube Sandbox \(CubeSandbox\)](https://cubesandbox.com/) — **Self-hosted**. Sandbox service for agent code, browser automation and desktop workflows. [details](https://wheredoirunthis.com/products/cubesandbox)
 - [Daytona](https://www.daytona.io/) — **Hosted**. Infrastructure for Running AI-Generated Code. [details](https://wheredoirunthis.com/products/daytona)
 - [Docker Sandboxes](https://www.docker.com/products/docker-sandboxes/) — **Hosted**. Local and cloud microVM environments for coding agents and code execution. [details](https://wheredoirunthis.com/products/docker-sandboxes)
@@ -84,6 +85,7 @@ Longer-lived machines and development environments.
 
 - [boxes.dev](https://boxes.dev/) — **Hosted**. Hosted persistent machines for development and workloads. [details](https://wheredoirunthis.com/products/boxes.dev)
 - [Catnip](https://catnip.run/) — **Self-hosted**. Containerized coding-agent sessions with parallel Git worktrees and web, mobile or SSH access. [details](https://wheredoirunthis.com/products/catnip)
+- [devvm](https://devvm.dev/) — **Self-hosted**. One VM for every project. [details](https://wheredoirunthis.com/products/devvm)
 - [Docker Offload](https://www.docker.com/products/docker-offload/) — **Hosted**. Run Docker builds and containers in cloud environments from your local workflow. [details](https://wheredoirunthis.com/products/docker-offload)
 - [exe.dev](https://exe.dev/) — **Hosted**. Build apps or SSH into a persistent Linux VM. [details](https://wheredoirunthis.com/products/exe.dev)
 - [machine](https://runmachine.dev/) — **Self-hosted**. One ready-to-work Linux machine per project. [details](https://wheredoirunthis.com/products/machine)
@@ -179,6 +181,7 @@ Build and host applications with AI assistance.
 - [Playcode](https://playcode.io/) — **Hosted**. AI-assisted app builder with website publishing and application backends. [details](https://wheredoirunthis.com/products/playcode)
 - [Prized](https://prized.dev/) — **Hosted**. Build internal tools with AI. [details](https://wheredoirunthis.com/products/prized)
 - [Remy](https://goremy.ai/) — **Hosted**. AI agent that builds, ships, and runs products. [details](https://wheredoirunthis.com/products/goremy)
+- [Replit](https://replit.com/) — **Hosted**. Describe what you want. [details](https://wheredoirunthis.com/products/replit)
 
 ## Website builder
 
