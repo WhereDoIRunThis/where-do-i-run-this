@@ -30,12 +30,15 @@ Browse the [full directory](https://wheredoirunthis.com/) for product details, p
 
 Isolated environments for code execution, coding agents and computer use.
 
+- [Agent Computer](https://www.agentcomputer.ai/) — **Hosted**. Cloud computers for AI agents. [details](https://wheredoirunthis.com/products/agentcomputer)
 - [Agent Safehouse](https://agent-safehouse.dev/) — **Self-hosted**. MacOS-native sandboxing for local agents. [details](https://wheredoirunthis.com/products/agent-safehouse)
 - [Agent Sandbox](https://agent-sandbox.sigs.k8s.io/) — **Self-hosted**. Kubernetes controller for isolated, stateful agent workloads and reinforcement learning. [details](https://wheredoirunthis.com/products/agent-sandbox)
 - [Agent Substrate](https://github.com/agent-substrate/substrate) — **Self-hosted**. Execution runtime for stateful agents, coding tasks and sandboxed tools. [details](https://wheredoirunthis.com/products/agent-substrate)
 - [Agent37](https://www.agent37.com/) — **Hosted**. Hosted agent environments for code execution, web apps and browser automation. [details](https://wheredoirunthis.com/products/agent37)
 - [AgentNest](https://github.com/mihirahuja1/agentnestOSS) — **Self-hosted**. Python-first agent runtime with disposable environments, execution policies and browser support. [details](https://wheredoirunthis.com/products/agentnest)
+- [Amika](https://www.amika.dev/) — **Hosted**. Cloud devboxes for coding agents, on computers you already own. [details](https://wheredoirunthis.com/products/amika)
 - [Anthropic Sandbox Runtime \(srt\)](https://github.com/anthropics/sandbox-runtime) — **Self-hosted**. Sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. [details](https://wheredoirunthis.com/products/sandbox-runtime)
+- [Archil](https://archil.com/) — **Hosted**. Serverless runtime for intelligence. [details](https://wheredoirunthis.com/products/archil)
 - [AWS Lambda MicroVMs](https://aws.amazon.com/lambda/lambda-microvms/) — **Hosted**. Managed microVM sandboxes with launch, pause and resume controls. [details](https://wheredoirunthis.com/products/lambda-microvms)
 - [AX \(Agent Executor\)](https://agentexecutor.io/) — **Self-hosted**. Run coding agents, notebooks and evaluation tasks in isolated environments. [details](https://wheredoirunthis.com/products/ax)
 - [Bastion](https://bastion.computer/) — **Self-hosted**. Self-hosted virtual machines for background coding agents. [details](https://wheredoirunthis.com/products/bastion)
@@ -83,6 +86,7 @@ Isolated environments for code execution, coding agents and computer use.
 
 Longer-lived machines and development environments.
 
+- [Arker](https://arker.ai/) — **Hosted**. Virtual machines for agents at extreme scale. [details](https://wheredoirunthis.com/products/arker)
 - [boxes.dev](https://boxes.dev/) — **Hosted**. Hosted persistent machines for development and workloads. [details](https://wheredoirunthis.com/products/boxes.dev)
 - [Catnip](https://catnip.run/) — **Self-hosted**. Containerized coding-agent sessions with parallel Git worktrees and web, mobile or SSH access. [details](https://wheredoirunthis.com/products/catnip)
 - [devvm](https://devvm.dev/) — **Self-hosted**. One VM for every project. [details](https://wheredoirunthis.com/products/devvm)
