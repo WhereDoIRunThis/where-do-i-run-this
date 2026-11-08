@@ -65,6 +65,7 @@ Isolated environments for code execution, coding agents and computer use.
 - [Islo](https://islo.dev/) — **Hosted**. Islo is infra for safely running autonomous coding agents in real, dev environments. [details](https://wheredoirunthis.com/products/islo)
 - [Isorun](https://isorun.ai/) — **Hosted**. Linux sandboxes for agent code, browser use and forked experiments. [details](https://wheredoirunthis.com/products/isorun)
 - [Judge0](https://judge0.com/) — **Open core**. Sandboxed open-source online code execution system for humans and AI. [details](https://wheredoirunthis.com/products/judge0)
+- [Leap0](https://leap0.dev/) — **Hosted**. Safest way to run untrusted code. [details](https://wheredoirunthis.com/products/leap0)
 - [Lifo](https://lifo.sh/) — **Self-hosted**. Tiny Linux-like OS in TypeScript, for browsers, Node and serverless functions. [details](https://wheredoirunthis.com/products/lifo)
 - [microsandbox](https://microsandbox.dev/) — **Open core**. Open-source microVM sandboxes for agents and untrusted code. [details](https://wheredoirunthis.com/products/microsandbox)
 - [nono](https://nono.sh/) — **Self-hosted**. Self-hostable environments for running code and agent tasks. [details](https://wheredoirunthis.com/products/nono)
@@ -99,7 +100,7 @@ Longer-lived machines and development environments.
 - [exe.dev](https://exe.dev/) — **Hosted**. Build apps or SSH into a persistent Linux VM. [details](https://wheredoirunthis.com/products/exe.dev)
 - [GitHub Codespaces](https://github.com/features/codespaces) — **Hosted**. GitHub Codespaces gets you up and coding er with fully configured, cloud development environments native to GitHub. [details](https://wheredoirunthis.com/products/github-codespaces)
 - [machine](https://runmachine.dev/) — **Self-hosted**. One ready-to-work Linux machine per project. [details](https://wheredoirunthis.com/products/machine)
-- [machine0](https://machine0.io/) — **Hosted**. Persistent VMs from the CLI. [details](https://wheredoirunthis.com/products/machine0)
+- [machine0](https://machine0.io/) — **Hosted**. Powerful &amp; Persistent Virtual Machines. [details](https://wheredoirunthis.com/products/machine0)
 - [Multipass](https://canonical.com/multipass) — **Self-hosted**. Ubuntu VMs on demand for any workstation. [details](https://wheredoirunthis.com/products/multipass)
 - [ShellBox](https://shellbox.dev/) — **Hosted**. Linux machines with SSH access, duplication and scale-to-zero hosting. [details](https://wheredoirunthis.com/products/shellbox)
 - [Sprites](https://fly.io/sprites/) — **Hosted**. Persistent Linux environments for agents, development and long-lived services. [details](https://wheredoirunthis.com/products/sprites)
@@ -150,6 +151,7 @@ GPU infrastructure for training, inference and other compute workloads.
 - [Crusoe Cloud](https://www.crusoe.ai/cloud) — **Hosted**. World's favorite AI cloud. [details](https://wheredoirunthis.com/products/crusoe)
 - [Hyperstack](https://www.hyperstack.cloud/) — **Hosted**. On-Demand Cloud GPU Solutions for AI &amp; ML. [details](https://wheredoirunthis.com/products/hyperstack)
 - [Jarvislabs](https://jarvislabs.ai/) — **Hosted**. Hosted gPU compute infrastructure. [details](https://wheredoirunthis.com/products/jarvislabs)
+- [Lightning AI](https://lightning.ai/) — **Hosted**. Build, train and deploy your own specialized models. [details](https://wheredoirunthis.com/products/lightning-ai)
 - [Nebius](https://nebius.com/) — **Hosted**. GPU cloud for model training, fine-tuning, inference and data processing. [details](https://wheredoirunthis.com/products/nebius)
 - [Runpod](https://www.runpod.io/) — **Hosted**. GPU instances and serverless compute for inference, training and batch jobs. [details](https://wheredoirunthis.com/products/runpod)
 
@@ -174,6 +176,7 @@ Run application logic close to users at the network edge.
 
 Virtual machines and infrastructure you can build on.
 
+- [Akamai Cloud \(formerly Linode\)](https://www.linode.com/) — **Hosted**. World's Most Distributed Cloud Computing Platform. [details](https://wheredoirunthis.com/products/linode)
 - [Appbox](https://www.appbox.co/) — **Hosted**. Cloud machines, browser desktops and one-click application hosting. [details](https://wheredoirunthis.com/products/appbox)
 - [Civo](https://www.civo.com/) — **Hosted**. Sovereign Cloud and AI Platform \| Built for More. [details](https://wheredoirunthis.com/products/civo)
 - [Contabo](https://contabo.com/en/) — **Hosted**. Cloud VPS and Bare Metal Servers for Less. [details](https://wheredoirunthis.com/products/contabo)
@@ -181,6 +184,7 @@ Virtual machines and infrastructure you can build on.
 - [flintlock](https://www.liquidmetal.dev/) — **Self-hosted**. Create and manage Firecracker and Cloud Hypervisor microVMs using containerd. [details](https://wheredoirunthis.com/products/flintlock)
 - [Gcore Edge Cloud](https://gcore.com/cloud) — **Hosted**. Hosted compute and infrastructure services. [details](https://wheredoirunthis.com/products/gcore)
 - [IONOS CLOUD](https://cloud.ionos.com/) — **Hosted**. Uncompromising cloud performance. [details](https://wheredoirunthis.com/products/ionos)
+- [Kamatera](https://www.kamatera.com/) — **Hosted**. Enterprise-Grade Cloud Infrastructure. [details](https://wheredoirunthis.com/products/kamatera)
 - [Namespace](https://namespace.so/) — **Hosted**. Cloud development machines, CI runners, container builds and build caching. [details](https://wheredoirunthis.com/products/namespace)
 - [Scaleway](https://www.scaleway.com/en/) — **Hosted**. Cloud infrastructure with virtual machines, containers, databases and GPU services. [details](https://wheredoirunthis.com/products/scaleway)
 - [Ubicloud](https://www.ubicloud.com/) — **Open core**. Self-hostable cloud infrastructure with virtual machines and managed services. [details](https://wheredoirunthis.com/products/ubicloud)
@@ -199,6 +203,7 @@ Build and host applications with AI assistance.
 - [AppDeploy](https://appdeploy.ai/) — **Hosted**. Build and deploy web apps, dashboards and internal tools from AI chat. [details](https://wheredoirunthis.com/products/appdeploy)
 - [Base44](https://base44.com/) — **Hosted**. AI app builder with hosting for full-stack apps, websites and internal tools. [details](https://wheredoirunthis.com/products/base44)
 - [Lovable](https://lovable.dev/) — **Hosted**. Build and host web apps, websites and internal tools through AI chat. [details](https://wheredoirunthis.com/products/lovable)
+- [Manus](https://manus.im/) — **Hosted**. Hosted aI-assisted application building and hosting. [details](https://wheredoirunthis.com/products/manus)
 - [Playcode](https://playcode.io/) — **Hosted**. AI-assisted app builder with website publishing and application backends. [details](https://wheredoirunthis.com/products/playcode)
 - [Prized](https://prized.dev/) — **Hosted**. Build internal tools with AI. [details](https://wheredoirunthis.com/products/prized)
 - [Remy](https://goremy.ai/) — **Hosted**. AI agent that builds, ships, and runs products. [details](https://wheredoirunthis.com/products/goremy)
