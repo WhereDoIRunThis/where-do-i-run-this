@@ -60,7 +60,9 @@ Isolated environments for code execution, coding agents and computer use.
 - [Fast VM](https://fastvm.org/) — **Hosted**. Virtual-machine sandboxes with snapshots and branching for agents and evaluations. [details](https://wheredoirunthis.com/products/fastvm)
 - [Freestyle](https://www.freestyle.sh/) — **Hosted**. Full Linux VMs for AI Agents. [details](https://wheredoirunthis.com/products/freestyle)
 - [Gondolin](https://earendil-works.github.io/gondolin/) — **Self-hosted**. Local Linux micro-VMs with programmable network and filesystem control. [details](https://wheredoirunthis.com/products/gondolin)
+- [HopX](https://hopx.ai/) — **Hosted**. Safely run untrusted code. [details](https://wheredoirunthis.com/products/hopx)
 - [InstaVM](https://instavm.io/) — **Hosted**. Agent sandboxes for code execution, browser use and persistent workloads. [details](https://wheredoirunthis.com/products/instavm)
+- [Islo](https://islo.dev/) — **Hosted**. Islo is infra for safely running autonomous coding agents in real, dev environments. [details](https://wheredoirunthis.com/products/islo)
 - [Isorun](https://isorun.ai/) — **Hosted**. Linux sandboxes for agent code, browser use and forked experiments. [details](https://wheredoirunthis.com/products/isorun)
 - [Judge0](https://judge0.com/) — **Open core**. Sandboxed open-source online code execution system for humans and AI. [details](https://wheredoirunthis.com/products/judge0)
 - [Lifo](https://lifo.sh/) — **Self-hosted**. Tiny Linux-like OS in TypeScript, for browsers, Node and serverless functions. [details](https://wheredoirunthis.com/products/lifo)
@@ -91,9 +93,11 @@ Longer-lived machines and development environments.
 - [boxd](https://boxd.sh/) — **Hosted**. Composable computers for Devs and Agents. [details](https://wheredoirunthis.com/products/boxd)
 - [boxes.dev](https://boxes.dev/) — **Hosted**. Hosted persistent machines for development and workloads. [details](https://wheredoirunthis.com/products/boxes.dev)
 - [Catnip](https://catnip.run/) — **Self-hosted**. Containerized coding-agent sessions with parallel Git worktrees and web, mobile or SSH access. [details](https://wheredoirunthis.com/products/catnip)
+- [Dedalus Machines](https://www.dedaluslabs.ai/) — **Hosted**. Persistent VMs for Agents. [details](https://wheredoirunthis.com/products/dedalus-labs)
 - [devvm](https://devvm.dev/) — **Self-hosted**. One VM for every project. [details](https://wheredoirunthis.com/products/devvm)
 - [Docker Offload](https://www.docker.com/products/docker-offload/) — **Hosted**. Run Docker builds and containers in cloud environments from your local workflow. [details](https://wheredoirunthis.com/products/docker-offload)
 - [exe.dev](https://exe.dev/) — **Hosted**. Build apps or SSH into a persistent Linux VM. [details](https://wheredoirunthis.com/products/exe.dev)
+- [GitHub Codespaces](https://github.com/features/codespaces) — **Hosted**. GitHub Codespaces gets you up and coding er with fully configured, cloud development environments native to GitHub. [details](https://wheredoirunthis.com/products/github-codespaces)
 - [machine](https://runmachine.dev/) — **Self-hosted**. One ready-to-work Linux machine per project. [details](https://wheredoirunthis.com/products/machine)
 - [machine0](https://machine0.io/) — **Hosted**. Persistent VMs from the CLI. [details](https://wheredoirunthis.com/products/machine0)
 - [Multipass](https://canonical.com/multipass) — **Self-hosted**. Ubuntu VMs on demand for any workstation. [details](https://wheredoirunthis.com/products/multipass)
@@ -112,6 +116,7 @@ Platforms for deploying applications, services and background workers.
 - [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform) — **Hosted**. Managed hosting for web services, static sites, workers and scheduled jobs. [details](https://wheredoirunthis.com/products/digitalocean-app-platform)
 - [Fly.io](https://fly.io/) — **Hosted**. Deploy containerized applications and stateful services on distributed virtual machines. [details](https://wheredoirunthis.com/products/fly-io)
 - [here.now](https://here.now/) — **Hosted**. Publish static websites, web apps and agent-created artifacts. [details](https://wheredoirunthis.com/products/here-now)
+- [Heroku](https://www.heroku.com/) — **Hosted**. Cloud Application Platform For Building, Deploying, and Scaling Apps. [details](https://wheredoirunthis.com/products/heroku)
 - [INK](https://deployink.com/) — **Hosted**. Production deploys for agent-built apps. [details](https://wheredoirunthis.com/products/ink)
 - [InstaCloud](https://www.instacloud.com/) — **Open core**. Deploy applications, databases and workers with per-agent branch environments. [details](https://wheredoirunthis.com/products/instacloud)
 - [Neptune](https://www.neptune.dev/) — **Hosted**. Provision and deploy containerized web services through conversation. [details](https://wheredoirunthis.com/products/neptune)
@@ -143,6 +148,8 @@ GPU infrastructure for training, inference and other compute workloads.
 
 - [CoreWeave \(CoreWeave Sandboxes\)](https://www.coreweave.com/) — **Hosted**. Run agent tools, evaluations, and training workloads in isolated environments on CoreWeave. [details](https://wheredoirunthis.com/products/coreweave)
 - [Crusoe Cloud](https://www.crusoe.ai/cloud) — **Hosted**. World's favorite AI cloud. [details](https://wheredoirunthis.com/products/crusoe)
+- [Hyperstack](https://www.hyperstack.cloud/) — **Hosted**. On-Demand Cloud GPU Solutions for AI &amp; ML. [details](https://wheredoirunthis.com/products/hyperstack)
+- [Jarvislabs](https://jarvislabs.ai/) — **Hosted**. Hosted gPU compute infrastructure. [details](https://wheredoirunthis.com/products/jarvislabs)
 - [Nebius](https://nebius.com/) — **Hosted**. GPU cloud for model training, fine-tuning, inference and data processing. [details](https://wheredoirunthis.com/products/nebius)
 - [Runpod](https://www.runpod.io/) — **Hosted**. GPU instances and serverless compute for inference, training and batch jobs. [details](https://wheredoirunthis.com/products/runpod)
 
@@ -170,7 +177,10 @@ Virtual machines and infrastructure you can build on.
 - [Appbox](https://www.appbox.co/) — **Hosted**. Cloud machines, browser desktops and one-click application hosting. [details](https://wheredoirunthis.com/products/appbox)
 - [Civo](https://www.civo.com/) — **Hosted**. Sovereign Cloud and AI Platform \| Built for More. [details](https://wheredoirunthis.com/products/civo)
 - [Contabo](https://contabo.com/en/) — **Hosted**. Cloud VPS and Bare Metal Servers for Less. [details](https://wheredoirunthis.com/products/contabo)
+- [Exoscale](https://www.exoscale.com/) — **Hosted**. European cloud provider that cares about your uptime and privacy. [details](https://wheredoirunthis.com/products/exoscale)
 - [flintlock](https://www.liquidmetal.dev/) — **Self-hosted**. Create and manage Firecracker and Cloud Hypervisor microVMs using containerd. [details](https://wheredoirunthis.com/products/flintlock)
+- [Gcore Edge Cloud](https://gcore.com/cloud) — **Hosted**. Hosted compute and infrastructure services. [details](https://wheredoirunthis.com/products/gcore)
+- [IONOS CLOUD](https://cloud.ionos.com/) — **Hosted**. Uncompromising cloud performance. [details](https://wheredoirunthis.com/products/ionos)
 - [Namespace](https://namespace.so/) — **Hosted**. Cloud development machines, CI runners, container builds and build caching. [details](https://wheredoirunthis.com/products/namespace)
 - [Scaleway](https://www.scaleway.com/en/) — **Hosted**. Cloud infrastructure with virtual machines, containers, databases and GPU services. [details](https://wheredoirunthis.com/products/scaleway)
 - [Ubicloud](https://www.ubicloud.com/) — **Open core**. Self-hostable cloud infrastructure with virtual machines and managed services. [details](https://wheredoirunthis.com/products/ubicloud)
@@ -221,6 +231,7 @@ Hosted and self-hostable databases for applications and agents.
 
 Backend services such as databases, authentication and storage.
 
+- [InsForge](https://insforge.dev/) — **Open core**. Agent-Native Cloud Infrastructure Platform: model gateway, compute, deployment, database, auth, and more. [details](https://wheredoirunthis.com/products/insforge)
 - [Supabase](https://supabase.com/) — **Open core**. Postgres backend with authentication, storage, realtime features and edge functions. [details](https://wheredoirunthis.com/products/supabase)
 
 ## More run destinations
