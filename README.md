@@ -43,13 +43,14 @@ Isolated environments for code execution, coding agents and computer use.
 - [AX \(Agent Executor\)](https://agentexecutor.io/) — **Self-hosted**. Run coding agents, notebooks and evaluation tasks in isolated environments. [details](https://wheredoirunthis.com/products/ax)
 - [Bastion](https://bastion.computer/) — **Self-hosted**. Self-hosted virtual machines for background coding agents. [details](https://wheredoirunthis.com/products/bastion)
 - [bhatti](https://bhatti.sh/) — **Self-hosted**. Create Linux VMs on your own hardware for agents and development environments. [details](https://wheredoirunthis.com/products/bhatti)
-- [Blaxel Sandboxes](https://blaxel.ai/platform/sandboxes) — **Hosted**. Sandboxes for coding agents, untrusted code, data analysis and app previews. [details](https://wheredoirunthis.com/products/blaxel)
-- [Boat](https://boat.dev/) — **Hosted**. Persistent Linux VMs for agents with SSH, Docker and machine forking. [details](https://wheredoirunthis.com/products/boat)
+- [Blaxel Sandboxes](https://blaxel.ai/platform/sandboxes) — **Hosted**. Infrastructure for autonomous agents. [details](https://wheredoirunthis.com/products/blaxel)
+- [Boat \(formerly Box\)](https://boat.dev/) — **Hosted**. Most powerful &amp; affordable cloud VMs for agents. [details](https://wheredoirunthis.com/products/boat)
 - [Brig](https://www.brig.sh/) — **Self-hosted**. MicroVM sandbox for AI coding agents. [details](https://wheredoirunthis.com/products/brig)
 - [Browserbase](https://www.browserbase.com/) — **Hosted**. Cloud browsers for web agents, automation, scraping and testing. [details](https://wheredoirunthis.com/products/browserbase)
 - [Celesto AI](https://celesto.ai/) — **Open core**. Sandboxes for code execution, browser automation and computer-use agents. [details](https://wheredoirunthis.com/products/celesto)
 - [Cloudflare Sandboxes](https://www.cloudflare.com/products/sandboxes/) — **Hosted**. Run untrusted code in isolated environments. [details](https://wheredoirunthis.com/products/cloudflare-sandboxes)
 - [co:op](https://coop.dryga.com/) — **Self-hosted**. You need a sandbox. [details](https://wheredoirunthis.com/products/coop)
+- [Cua Spaces](https://cua.ai/) — **Open core**. Combine your existing computers into one supercomputer. [details](https://wheredoirunthis.com/products/cua)
 - [Cube Sandbox \(CubeSandbox\)](https://cubesandbox.com/) — **Self-hosted**. Sandbox service for agent code, browser automation and desktop workflows. [details](https://wheredoirunthis.com/products/cubesandbox)
 - [Daytona](https://www.daytona.io/) — **Hosted**. Infrastructure for Running AI-Generated Code. [details](https://wheredoirunthis.com/products/daytona)
 - [Docker Sandboxes](https://www.docker.com/products/docker-sandboxes/) — **Hosted**. Local and cloud microVM environments for coding agents and code execution. [details](https://wheredoirunthis.com/products/docker-sandboxes)
@@ -87,6 +88,7 @@ Isolated environments for code execution, coding agents and computer use.
 Longer-lived machines and development environments.
 
 - [Arker](https://arker.ai/) — **Hosted**. Virtual machines for agents at extreme scale. [details](https://wheredoirunthis.com/products/arker)
+- [boxd](https://boxd.sh/) — **Hosted**. Composable computers for Devs and Agents. [details](https://wheredoirunthis.com/products/boxd)
 - [boxes.dev](https://boxes.dev/) — **Hosted**. Hosted persistent machines for development and workloads. [details](https://wheredoirunthis.com/products/boxes.dev)
 - [Catnip](https://catnip.run/) — **Self-hosted**. Containerized coding-agent sessions with parallel Git worktrees and web, mobile or SSH access. [details](https://wheredoirunthis.com/products/catnip)
 - [devvm](https://devvm.dev/) — **Self-hosted**. One VM for every project. [details](https://wheredoirunthis.com/products/devvm)
@@ -105,6 +107,7 @@ Platforms for deploying applications, services and background workers.
 
 - [Aptible](https://www.aptible.com/) — **Hosted**. Application and database hosting for production workloads, including regulated SaaS. [details](https://wheredoirunthis.com/products/aptible)
 - [Canine](https://canine.sh/) — **Open core**. Deploy web apps, background jobs and containers to your own Kubernetes cluster. [details](https://wheredoirunthis.com/products/canine)
+- [Clever Cloud](https://www.clever.cloud/) — **Hosted**. Fully managed cloud you deserve. [details](https://wheredoirunthis.com/products/clever-cloud)
 - [Dcubix Magic Apps](https://www.dcubix.com/magic-apps/) — **Hosted**. Build and deploy apps from GitHub with automatic scaling across selected regions. [details](https://wheredoirunthis.com/products/dcubix-magic-apps)
 - [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform) — **Hosted**. Managed hosting for web services, static sites, workers and scheduled jobs. [details](https://wheredoirunthis.com/products/digitalocean-app-platform)
 - [Fly.io](https://fly.io/) — **Hosted**. Deploy containerized applications and stateful services on distributed virtual machines. [details](https://wheredoirunthis.com/products/fly-io)
@@ -124,7 +127,7 @@ Platforms for deploying applications, services and background workers.
 
 Functions, containers and on-demand compute runtimes.
 
-- [Beam](https://www.beam.cloud/) — **Open core**. Serverless GPUs and Sandboxes. [details](https://wheredoirunthis.com/products/beam)
+- [Beam](https://www.beam.cloud/) — **Open core**. Compute for agents. [details](https://wheredoirunthis.com/products/beam)
 - [Chutes](https://chutes.ai/) — **Open core**. Serverless model inference and custom AI applications. [details](https://wheredoirunthis.com/products/chutes)
 - [Deno Deploy](https://deno.com/deploy) — **Hosted**. Serverless JavaScript and TypeScript hosting for web applications, APIs and scheduled tasks. [details](https://wheredoirunthis.com/products/deno)
 - [Koyeb](https://www.koyeb.com/) — **Hosted**. Deploy APIs, applications, GPU inference and agent workloads. [details](https://wheredoirunthis.com/products/koyeb)
@@ -139,6 +142,7 @@ Functions, containers and on-demand compute runtimes.
 GPU infrastructure for training, inference and other compute workloads.
 
 - [CoreWeave \(CoreWeave Sandboxes\)](https://www.coreweave.com/) — **Hosted**. Run agent tools, evaluations, and training workloads in isolated environments on CoreWeave. [details](https://wheredoirunthis.com/products/coreweave)
+- [Crusoe Cloud](https://www.crusoe.ai/cloud) — **Hosted**. World's favorite AI cloud. [details](https://wheredoirunthis.com/products/crusoe)
 - [Nebius](https://nebius.com/) — **Hosted**. GPU cloud for model training, fine-tuning, inference and data processing. [details](https://wheredoirunthis.com/products/nebius)
 - [Runpod](https://www.runpod.io/) — **Hosted**. GPU instances and serverless compute for inference, training and batch jobs. [details](https://wheredoirunthis.com/products/runpod)
 
@@ -146,6 +150,7 @@ GPU infrastructure for training, inference and other compute workloads.
 
 Services for deploying and calling AI models.
 
+- [Baseten](https://www.baseten.co/) — **Hosted**. Platform for inference, training, and execution. [details](https://wheredoirunthis.com/products/baseten)
 - [Cerebrium](https://cerebrium.ai/) — **Hosted**. Infrastructure for real-time model inference, voice agents and custom Python servers. [details](https://wheredoirunthis.com/products/cerebrium)
 - [General Compute](https://www.generalcompute.com/) — **Hosted**. OpenAI-compatible inference API on heterogeneous compute. [details](https://wheredoirunthis.com/products/general-compute)
 
@@ -163,6 +168,8 @@ Run application logic close to users at the network edge.
 Virtual machines and infrastructure you can build on.
 
 - [Appbox](https://www.appbox.co/) — **Hosted**. Cloud machines, browser desktops and one-click application hosting. [details](https://wheredoirunthis.com/products/appbox)
+- [Civo](https://www.civo.com/) — **Hosted**. Sovereign Cloud and AI Platform \| Built for More. [details](https://wheredoirunthis.com/products/civo)
+- [Contabo](https://contabo.com/en/) — **Hosted**. Cloud VPS and Bare Metal Servers for Less. [details](https://wheredoirunthis.com/products/contabo)
 - [flintlock](https://www.liquidmetal.dev/) — **Self-hosted**. Create and manage Firecracker and Cloud Hypervisor microVMs using containerd. [details](https://wheredoirunthis.com/products/flintlock)
 - [Namespace](https://namespace.so/) — **Hosted**. Cloud development machines, CI runners, container builds and build caching. [details](https://wheredoirunthis.com/products/namespace)
 - [Scaleway](https://www.scaleway.com/en/) — **Hosted**. Cloud infrastructure with virtual machines, containers, databases and GPU services. [details](https://wheredoirunthis.com/products/scaleway)
