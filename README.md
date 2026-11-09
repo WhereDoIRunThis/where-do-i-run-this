@@ -74,14 +74,18 @@ Isolated environments for code execution, coding agents and computer use.
 - [OpenSandbox](https://open-sandbox.ai/) — **Self-hosted**. Sandbox runtime for agent code, browser automation and computer use. [details](https://wheredoirunthis.com/products/opensandbox)
 - [PandaStack](https://www.pandastack.ai/) — **Open core**. Agent sandboxes alongside application hosting, databases and scheduled functions. [details](https://wheredoirunthis.com/products/pandastack)
 - [Range](https://getrange.sh/) — **Self-hosted**. Use a remote environment before downloading it. [details](https://wheredoirunthis.com/products/range)
+- [Replicas](https://replicas.dev/) — **Hosted**. Hosted environments for running code and agent tasks. [details](https://wheredoirunthis.com/products/replicas)
 - [Runtime](https://withruntime.com/) — **Hosted**. Linux sandboxes for AI agents. [details](https://wheredoirunthis.com/products/runtime)
 - [Runtime Cloud](https://www.runtm.com/) — **Hosted**. AI agent harness for payment teams. [details](https://wheredoirunthis.com/products/runtm)
 - [sandbox-run](https://github.com/sandbox-utils/sandbox-run) — **Self-hosted**. Run commands in a native Linux namespace sandbox. [details](https://wheredoirunthis.com/products/sandbox-run)
+- [Sandbox0](https://sandbox0.ai/) — **Hosted**. AI agent sandboxes. [details](https://wheredoirunthis.com/products/sandbox0)
 - [sandboxd \(formerly sandboxed\)](https://sandboxd.io/) — **Self-hosted**. Open-source, self-hosted AI app builder. [details](https://wheredoirunthis.com/products/sandboxed)
 - [SlicerVM \(Slicer\)](https://slicervm.com/) — **Hosted**. Linux microVMs for agents and development on Macs, servers or cloud infrastructure. [details](https://wheredoirunthis.com/products/slicervm)
-- [smolvm](https://smolmachines.com/) — **Open core**. Branchable microVMs for AI agents. [details](https://wheredoirunthis.com/products/smolvm)
+- [smolvm](https://smolmachines.com/) — **Open core**. Isolated Linux VMs. [details](https://wheredoirunthis.com/products/smolvm)
 - [Superconductor](https://www.superconductor.com/) — **Hosted**. Multiplayer AI workspace for teams and coding agents. [details](https://wheredoirunthis.com/products/superconductor)
+- [Superserve](https://www.superserve.ai/) — **Hosted**. Virtual machines for long-running agents. [details](https://wheredoirunthis.com/products/superserve)
 - [Tencent Cloud Agent Runtime \(Agent Sandbox / AGS\)](https://cloud.tencent.com/product/ags) — **Hosted**. Agent sandboxes for code execution, browser and desktop use, and evaluations. [details](https://wheredoirunthis.com/products/tencent-cloud-ags)
+- [Tensorlake](https://www.tensorlake.ai/) — **Hosted**. Composable infrastructure for agents. [details](https://wheredoirunthis.com/products/tensorlake)
 - [Vercel Sandbox](https://vercel.com/sandbox) — **Hosted**. Linux sandboxes for untrusted code, coding agents, tests and application previews. [details](https://wheredoirunthis.com/products/vercel-sandbox)
 - [vmsan](https://vmsan.dev/) — **Self-hosted**. Create and manage Firecracker microVMs with network isolation and Docker image support. [details](https://wheredoirunthis.com/products/vmsan)
 - [Zeroboot](https://github.com/zerobootdev/zeroboot) — **Open core**. MicroVM sandboxes using copy-on-write forking for agent code execution. [details](https://wheredoirunthis.com/products/zeroboot)
@@ -126,6 +130,8 @@ Platforms for deploying applications, services and background workers.
 - [Porter](https://www.porter.run/) — **Hosted**. Deploy applications, workers and GPU workloads in your own cloud account. [details](https://wheredoirunthis.com/products/porter)
 - [Railway](https://railway.com/) — **Hosted**. Deploy applications, databases, background workers and scheduled jobs. [details](https://wheredoirunthis.com/products/railway)
 - [Render](https://render.com/) — **Hosted**. Hosting for web services, static sites, workers, scheduled jobs and databases. [details](https://wheredoirunthis.com/products/render)
+- [Sealos](https://sealos.io/) — **Open core**. Deploy full-stack apps from a repo, docker image, template, or prompt. [details](https://wheredoirunthis.com/products/sealos)
+- [Specific](https://specific.dev/) — **Hosted**. Cloud platform built for coding agents. [details](https://wheredoirunthis.com/products/specific)
 - [Upsun Cloud \(formerly Platform.sh\)](https://upsun.com/cloud/) — **Hosted**. Cloud application platform that runs your apps. [details](https://wheredoirunthis.com/products/platform-sh)
 - [Vercel](https://vercel.com/) — **Hosted**. Web application deployments with previews, serverless functions and durable workflows. [details](https://wheredoirunthis.com/products/vercel)
 
@@ -141,7 +147,7 @@ Functions, containers and on-demand compute runtimes.
 - [Modal](https://modal.com/) — **Hosted**. Serverless compute for model inference, training, batch jobs and agent sandboxes. [details](https://wheredoirunthis.com/products/modal)
 - [NVCF \(NVIDIA Cloud Functions\)](https://github.com/NVIDIA/nvcf) — **Self-hosted**. Self-managed GPU functions, streaming and batch workloads on Kubernetes. [details](https://wheredoirunthis.com/products/nvcf)
 - [Recurse](https://recurse.run/) — **Hosted**. Serverless harness for agents to create custom agents and deploy them as tools, MCPs, or bots. [details](https://wheredoirunthis.com/products/recurse)
-- [Rivet](https://rivet.dev/) — **Open core**. Orchestrate stateful agents, real-time applications and durable workflows. [details](https://wheredoirunthis.com/products/rivet)
+- [Rivet](https://rivet.dev/) — **Open core**. Run and scale agents. [details](https://wheredoirunthis.com/products/rivet)
 
 ## GPU cloud
 
@@ -153,7 +159,10 @@ GPU infrastructure for training, inference and other compute workloads.
 - [Jarvislabs](https://jarvislabs.ai/) — **Hosted**. Hosted gPU compute infrastructure. [details](https://wheredoirunthis.com/products/jarvislabs)
 - [Lightning AI](https://lightning.ai/) — **Hosted**. Build, train and deploy your own specialized models. [details](https://wheredoirunthis.com/products/lightning-ai)
 - [Nebius](https://nebius.com/) — **Hosted**. GPU cloud for model training, fine-tuning, inference and data processing. [details](https://wheredoirunthis.com/products/nebius)
+- [Paperspace](https://www.paperspace.com/) — **Hosted**. Build &amp; Run AI/ML Models on NVIDIA H100 GPUs. [details](https://wheredoirunthis.com/products/paperspace)
+- [Prime Intellect](https://www.primeintellect.ai/) — **Hosted**. Own Your Intelligence. [details](https://wheredoirunthis.com/products/prime-intellect)
 - [Runpod](https://www.runpod.io/) — **Hosted**. GPU instances and serverless compute for inference, training and batch jobs. [details](https://wheredoirunthis.com/products/runpod)
+- [SF Compute](https://sfcompute.com/) — **Hosted**. Supercomputers you can sublease. [details](https://wheredoirunthis.com/products/sfcompute)
 
 ## Inference cloud
 
@@ -187,6 +196,7 @@ Virtual machines and infrastructure you can build on.
 - [Kamatera](https://www.kamatera.com/) — **Hosted**. Enterprise-Grade Cloud Infrastructure. [details](https://wheredoirunthis.com/products/kamatera)
 - [Namespace](https://namespace.so/) — **Hosted**. Cloud development machines, CI runners, container builds and build caching. [details](https://wheredoirunthis.com/products/namespace)
 - [Scaleway](https://www.scaleway.com/en/) — **Hosted**. Cloud infrastructure with virtual machines, containers, databases and GPU services. [details](https://wheredoirunthis.com/products/scaleway)
+- [STACKIT](https://stackit.com/en) — **Hosted**. Sovereign cloud for Europe. [details](https://wheredoirunthis.com/products/stackit)
 - [Ubicloud](https://www.ubicloud.com/) — **Open core**. Self-hostable cloud infrastructure with virtual machines and managed services. [details](https://wheredoirunthis.com/products/ubicloud)
 
 ## AI workspace
