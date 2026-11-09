@@ -72,7 +72,6 @@ Isolated environments for code execution, coding agents and computer use.
 - [Morph Cloud](https://www.morph.so/) — **Hosted**. Cloud computers for every agent. [details](https://wheredoirunthis.com/products/morph-cloud)
 - [nono](https://nono.sh/) — **Self-hosted**. Self-hostable environments for running code and agent tasks. [details](https://wheredoirunthis.com/products/nono)
 - [NVIDIA OpenShell](https://docs.nvidia.com/openshell/about/overview) — **Self-hosted**. Runtime with network and filesystem policies for autonomous agents. [details](https://wheredoirunthis.com/products/openshell)
-- [OpenComputer](https://opencomputer.dev/) — **Open core**. Platform for long-running agents. [details](https://wheredoirunthis.com/products/opencomputer)
 - [OpenSandbox](https://open-sandbox.ai/) — **Self-hosted**. Sandbox runtime for agent code, browser automation and computer use. [details](https://wheredoirunthis.com/products/opensandbox)
 - [PandaStack](https://www.pandastack.ai/) — **Open core**. Agent sandboxes alongside application hosting, databases and scheduled functions. [details](https://wheredoirunthis.com/products/pandastack)
 - [Range](https://getrange.sh/) — **Self-hosted**. Use a remote environment before downloading it. [details](https://wheredoirunthis.com/products/range)
@@ -236,6 +235,7 @@ Run background tasks, agents and multi-step workflows.
 - [Claude Managed Agents](https://claude.com/platform/api) — **Hosted**. Hosted workflow and background task execution. [details](https://wheredoirunthis.com/products/claude-managed-agents)
 - [n8n](https://n8n.io/) — **Open core**. AI workflow automation platform for technical teams. [details](https://wheredoirunthis.com/products/n8n)
 - [Omnara](https://www.omnara.com/) — **Open core**. Open-source alternative to Claude Managed Agents. [details](https://wheredoirunthis.com/products/omnara)
+- [OpenComputer](https://opencomputer.dev/) — **Hosted**. Blazing cloud coding agents. [details](https://wheredoirunthis.com/products/opencomputer)
 - [Trigger.dev](https://trigger.dev/) — **Open core**. Build and deploy durable AI agents and workflows. [details](https://wheredoirunthis.com/products/trigger-dev)
 - [Windmill](https://www.windmill.dev/) — **Open core**. Code-first orchestration platform for internal software. [details](https://wheredoirunthis.com/products/windmill)
 
