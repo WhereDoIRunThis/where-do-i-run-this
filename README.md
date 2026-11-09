@@ -68,6 +68,8 @@ Isolated environments for code execution, coding agents and computer use.
 - [Leap0](https://leap0.dev/) — **Hosted**. Safest way to run untrusted code. [details](https://wheredoirunthis.com/products/leap0)
 - [Lifo](https://lifo.sh/) — **Self-hosted**. Tiny Linux-like OS in TypeScript, for browsers, Node and serverless functions. [details](https://wheredoirunthis.com/products/lifo)
 - [microsandbox](https://microsandbox.dev/) — **Open core**. Open-source microVM sandboxes for agents and untrusted code. [details](https://wheredoirunthis.com/products/microsandbox)
+- [MIOSA](https://miosa.ai/) — **Hosted**. Infrastructure for agent-built software. [details](https://wheredoirunthis.com/products/miosa)
+- [Morph Cloud](https://www.morph.so/) — **Hosted**. Cloud computers for every agent. [details](https://wheredoirunthis.com/products/morph-cloud)
 - [nono](https://nono.sh/) — **Self-hosted**. Self-hostable environments for running code and agent tasks. [details](https://wheredoirunthis.com/products/nono)
 - [NVIDIA OpenShell](https://docs.nvidia.com/openshell/about/overview) — **Self-hosted**. Runtime with network and filesystem policies for autonomous agents. [details](https://wheredoirunthis.com/products/openshell)
 - [OpenComputer](https://opencomputer.dev/) — **Open core**. Platform for long-running agents. [details](https://wheredoirunthis.com/products/opencomputer)
@@ -106,6 +108,7 @@ Longer-lived machines and development environments.
 - [machine](https://runmachine.dev/) — **Self-hosted**. One ready-to-work Linux machine per project. [details](https://wheredoirunthis.com/products/machine)
 - [machine0](https://machine0.io/) — **Hosted**. Powerful &amp; Persistent Virtual Machines. [details](https://wheredoirunthis.com/products/machine0)
 - [Multipass](https://canonical.com/multipass) — **Self-hosted**. Ubuntu VMs on demand for any workstation. [details](https://wheredoirunthis.com/products/multipass)
+- [Orgo](https://www.orgo.ai/) — **Hosted**. Computers for Agents. [details](https://wheredoirunthis.com/products/orgo)
 - [ShellBox](https://shellbox.dev/) — **Hosted**. Linux machines with SSH access, duplication and scale-to-zero hosting. [details](https://wheredoirunthis.com/products/shellbox)
 - [Sprites](https://fly.io/sprites/) — **Hosted**. Persistent Linux environments for agents, development and long-lived services. [details](https://wheredoirunthis.com/products/sprites)
 - [UnixShells](https://unixshells.com/) — **Hosted**. Persistent Linux machines for coding agents, development and always-on services. [details](https://wheredoirunthis.com/products/unixshells)
@@ -159,6 +162,7 @@ GPU infrastructure for training, inference and other compute workloads.
 - [Jarvislabs](https://jarvislabs.ai/) — **Hosted**. Hosted gPU compute infrastructure. [details](https://wheredoirunthis.com/products/jarvislabs)
 - [Lightning AI](https://lightning.ai/) — **Hosted**. Build, train and deploy your own specialized models. [details](https://wheredoirunthis.com/products/lightning-ai)
 - [Nebius](https://nebius.com/) — **Hosted**. GPU cloud for model training, fine-tuning, inference and data processing. [details](https://wheredoirunthis.com/products/nebius)
+- [Novita AI](https://novita.ai/) — **Hosted**. AI-Native Cloud for Builders and Agents. [details](https://wheredoirunthis.com/products/novita-ai)
 - [Paperspace](https://www.paperspace.com/) — **Hosted**. Build &amp; Run AI/ML Models on NVIDIA H100 GPUs. [details](https://wheredoirunthis.com/products/paperspace)
 - [Prime Intellect](https://www.primeintellect.ai/) — **Hosted**. Own Your Intelligence. [details](https://wheredoirunthis.com/products/prime-intellect)
 - [Runpod](https://www.runpod.io/) — **Hosted**. GPU instances and serverless compute for inference, training and batch jobs. [details](https://wheredoirunthis.com/products/runpod)
@@ -231,6 +235,7 @@ Run background tasks, agents and multi-step workflows.
 
 - [Claude Managed Agents](https://claude.com/platform/api) — **Hosted**. Hosted workflow and background task execution. [details](https://wheredoirunthis.com/products/claude-managed-agents)
 - [n8n](https://n8n.io/) — **Open core**. AI workflow automation platform for technical teams. [details](https://wheredoirunthis.com/products/n8n)
+- [Omnara](https://www.omnara.com/) — **Open core**. Open-source alternative to Claude Managed Agents. [details](https://wheredoirunthis.com/products/omnara)
 - [Trigger.dev](https://trigger.dev/) — **Open core**. Build and deploy durable AI agents and workflows. [details](https://wheredoirunthis.com/products/trigger-dev)
 - [Windmill](https://www.windmill.dev/) — **Open core**. Code-first orchestration platform for internal software. [details](https://wheredoirunthis.com/products/windmill)
 
