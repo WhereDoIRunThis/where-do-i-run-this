@@ -141,6 +141,7 @@ Platforms for deploying applications, services and background workers.
 
 Functions, containers and on-demand compute runtimes.
 
+- [Alibaba Cloud AgentRun \(函数计算 AgentRun\)](https://www.aliyun.com/product/fc/agentrun) — **Hosted**. All-in-one Agentic AI infrastructure platform that is code-centric, open, and composable. [details](https://wheredoirunthis.com/products/alibaba-cloud-agentrun)
 - [Beam](https://www.beam.cloud/) — **Open core**. Compute for agents. [details](https://wheredoirunthis.com/products/beam)
 - [Chutes](https://chutes.ai/) — **Open core**. Serverless model inference and custom AI applications. [details](https://wheredoirunthis.com/products/chutes)
 - [Deno Deploy](https://deno.com/deploy) — **Hosted**. Serverless JavaScript and TypeScript hosting for web applications, APIs and scheduled tasks. [details](https://wheredoirunthis.com/products/deno)
@@ -150,6 +151,7 @@ Functions, containers and on-demand compute runtimes.
 - [NVCF \(NVIDIA Cloud Functions\)](https://github.com/NVIDIA/nvcf) — **Self-hosted**. Self-managed GPU functions, streaming and batch workloads on Kubernetes. [details](https://wheredoirunthis.com/products/nvcf)
 - [Recurse](https://recurse.run/) — **Hosted**. Serverless harness for agents to create custom agents and deploy them as tools, MCPs, or bots. [details](https://wheredoirunthis.com/products/recurse)
 - [Rivet](https://rivet.dev/) — **Open core**. Run and scale agents. [details](https://wheredoirunthis.com/products/rivet)
+- [Unikraft Cloud](https://unikraft.com/) — **Hosted**. Hosted function and compute workload runtime. [details](https://wheredoirunthis.com/products/unikraft-cloud)
 
 ## GPU cloud
 
@@ -183,6 +185,7 @@ Run application logic close to users at the network edge.
 - [bunny.net \(Edge Scripting + Magic Containers\)](https://bunny.net/) — **Hosted**. JavaScript and TypeScript edge functions for HTTP APIs and CDN middleware. [details](https://wheredoirunthis.com/products/bunny)
 - [Cloudflare \(Workers / Developer Platform\)](https://www.cloudflare.com/) — **Hosted**. Serverless JavaScript and TypeScript functions on the Cloudflare network. [details](https://wheredoirunthis.com/products/cloudflare)
 - [Fastly Compute](https://www.fastly.com/products/edge-compute) — **Hosted**. WebAssembly edge compute for HTTP applications, APIs and request processing. [details](https://wheredoirunthis.com/products/fastly)
+- [Wasmer Edge](https://wasmer.io/) — **Hosted**. Universal compute. [details](https://wheredoirunthis.com/products/wasmer)
 
 ## IaaS
 
@@ -201,6 +204,8 @@ Virtual machines and infrastructure you can build on.
 - [Scaleway](https://www.scaleway.com/en/) — **Hosted**. Cloud infrastructure with virtual machines, containers, databases and GPU services. [details](https://wheredoirunthis.com/products/scaleway)
 - [STACKIT](https://stackit.com/en) — **Hosted**. Sovereign cloud for Europe. [details](https://wheredoirunthis.com/products/stackit)
 - [Ubicloud](https://www.ubicloud.com/) — **Open core**. Self-hostable cloud infrastructure with virtual machines and managed services. [details](https://wheredoirunthis.com/products/ubicloud)
+- [UpCloud](https://upcloud.com/) — **Hosted**. Sovereign Cloud. [details](https://wheredoirunthis.com/products/upcloud)
+- [Vultr](https://www.vultr.com/) — **Hosted**. More Cloud, Less Money. [details](https://wheredoirunthis.com/products/vultr)
 
 ## AI workspace
 
