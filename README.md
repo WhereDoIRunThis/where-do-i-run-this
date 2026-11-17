@@ -88,6 +88,7 @@ Isolated environments for code execution, coding agents and computer use.
 - [Tencent Cloud Agent Runtime \(Agent Sandbox / AGS\)](https://cloud.tencent.com/product/ags) — **Hosted**. Agent sandboxes for code execution, browser and desktop use, and evaluations. [details](https://wheredoirunthis.com/products/tencent-cloud-ags)
 - [Tensorlake](https://www.tensorlake.ai/) — **Hosted**. Composable infrastructure for agents. [details](https://wheredoirunthis.com/products/tensorlake)
 - [Vercel Sandbox](https://vercel.com/sandbox) — **Hosted**. Linux sandboxes for untrusted code, coding agents, tests and application previews. [details](https://wheredoirunthis.com/products/vercel-sandbox)
+- [Vibemon](https://github.com/stencil-hq/vibemon) — **Self-hosted**. Self-hosted E2B-compatible sandboxes on KVM and HVF microVMs, with copy-on-write forks and pause/resume. [details](https://wheredoirunthis.com/products/vibemon)
 - [vmsan](https://vmsan.dev/) — **Self-hosted**. Create and manage Firecracker microVMs with network isolation and Docker image support. [details](https://wheredoirunthis.com/products/vmsan)
 - [Zeroboot](https://github.com/zerobootdev/zeroboot) — **Open core**. MicroVM sandboxes using copy-on-write forking for agent code execution. [details](https://wheredoirunthis.com/products/zeroboot)
 
