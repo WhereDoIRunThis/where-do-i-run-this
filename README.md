@@ -147,6 +147,7 @@ Functions, containers and on-demand compute runtimes.
 - [Beam](https://www.beam.cloud/) — **Open core**. Compute for agents. [details](https://wheredoirunthis.com/products/beam)
 - [Chutes](https://chutes.ai/) — **Open core**. Serverless model inference and custom AI applications. [details](https://wheredoirunthis.com/products/chutes)
 - [Deno Deploy](https://deno.com/deploy) — **Hosted**. Serverless JavaScript and TypeScript hosting for web applications, APIs and scheduled tasks. [details](https://wheredoirunthis.com/products/deno)
+- [Grains](https://grains.run/) — **Hosted**. Deploy, run, manage, and monetize AI agents. [details](https://wheredoirunthis.com/products/grains)
 - [Koyeb](https://www.koyeb.com/) — **Hosted**. Deploy APIs, applications, GPU inference and agent workloads. [details](https://wheredoirunthis.com/products/koyeb)
 - [Kyushu](https://kyushu.dev/) — **Self-hosted**. Self-hostable function and compute workload runtime. [details](https://wheredoirunthis.com/products/kyushu)
 - [Modal](https://modal.com/) — **Hosted**. Serverless compute for model inference, training, batch jobs and agent sandboxes. [details](https://wheredoirunthis.com/products/modal)
