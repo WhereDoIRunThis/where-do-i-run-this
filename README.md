@@ -107,6 +107,7 @@ Longer-lived machines and development environments.
 - [GitHub Codespaces](https://github.com/features/codespaces) — **Hosted**. GitHub Codespaces gets you up and coding er with fully configured, cloud development environments native to GitHub. [details](https://wheredoirunthis.com/products/github-codespaces)
 - [machine](https://runmachine.dev/) — **Self-hosted**. One ready-to-work Linux machine per project. [details](https://wheredoirunthis.com/products/machine)
 - [machine0](https://machine0.io/) — **Hosted**. Powerful &amp; Persistent Virtual Machines. [details](https://wheredoirunthis.com/products/machine0)
+- [Maritime](https://maritime.sh/) — **Hosted**. Managed hosting for AI agents, with persistent agent boxes, ephemeral sandboxes, Linux and Windows desktops, and Android phones. [details](https://wheredoirunthis.com/products/maritime)
 - [Multipass](https://canonical.com/multipass) — **Self-hosted**. Ubuntu VMs on demand for any workstation. [details](https://wheredoirunthis.com/products/multipass)
 - [Orgo](https://www.orgo.ai/) — **Hosted**. Computers for Agents. [details](https://wheredoirunthis.com/products/orgo)
 - [ShellBox](https://shellbox.dev/) — **Hosted**. Linux machines with SSH access, duplication and scale-to-zero hosting. [details](https://wheredoirunthis.com/products/shellbox)
